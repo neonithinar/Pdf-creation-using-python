@@ -3,11 +3,11 @@
 
 REQUIRED PACKAGES
 
-cv2 (OPEN CV)
-matplotlib.pyplot as plt
-numpy as np
-pdf2image
-img2pdf
+cv2 (OPEN CV), 
+matplotlib, 
+numpy, 
+pdf2image, 
+img2pdf,
 
 
 PLEASE NOTE THAT THIS IS JUST A CRUDE ATTEMPT FROM A FIRST TIME LEARNER
